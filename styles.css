@@ -1,0 +1,13 @@
+body{
+    background-color: blueviolet;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+h1{
+    display: block;
+
+}
